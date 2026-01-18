@@ -1,0 +1,13 @@
+# Unity
+Library/
+Temp/
+Obj/
+UserSettings/
+Logs/
+MemoryCaptures/
+Build/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
