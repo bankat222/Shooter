@@ -110,7 +110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 2
   Projectile: {fileID: 1728936453619090, guid: 9610b32634c0355409b4b5991571a66b, type: 3}
-  destructionVFX: {fileID: 1280240331523082, guid: 45ae5851ef2832044bba82850372d67b,
+  destructionVFX: {fileID: 3792561870583500672, guid: f9c340791705ba649a14be6c6cc6a833,
     type: 3}
   hitEffect: {fileID: 1256001557233130, guid: 2dd0bdb7830e6644da169b32252dca96, type: 3}
   shotChance: 10
